@@ -1,3 +1,5 @@
+# Alex Duthie | BSc Software Development Student
+
 ## Socials
 
 <a href="https://www.linkedin.com/in/alexduthielnkdn/"><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></a>
