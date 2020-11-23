@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></td>
+      <td><a href="https://www.linkedin.com/in/alexduthielnkdn/"><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></a></td>
       <td><img src="assets/images/icons/social_media_icons/80x80/Instagram.png"></td>
     </tr>
   </tbody>
