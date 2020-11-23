@@ -19,5 +19,4 @@
 <a href="https://www.patreon.com/user?u=34316453&fan_landing=true"><img src="assets/images/icons/social_media_icons/80x80/Patreon.png"></a>
 <a href="https://discord.gg/nHeKqxX"><img src="assets/images/icons/social_media_icons/80x80/Discord.png"></a>
 
-* [CoveredGeekly.com Github](https://github.com/brokealex/coveredgeekly.com)
-* [CoveredGeekly Github Org](https://github.com/CoveredGeekly)
+> **[CoveredGeekly Github Org](https://github.com/CoveredGeekly)**
