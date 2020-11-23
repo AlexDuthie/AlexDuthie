@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <td>Linkedin</td>
+      <td style="text-align: center;">Linkedin</td>
     </tr>
   </thead>
   <tbody>
