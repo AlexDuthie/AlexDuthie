@@ -1,4 +1,4 @@
-## <img src="assets/images/icons/BrokeAlex.png"> Socials
+## Socials
 
 <a href="https://www.linkedin.com/in/alexduthielnkdn/"><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></a>
 <a href="https://www.instagram.com/brokealexd/"><img src="assets/images/icons/social_media_icons/80x80/Instagram.png"></a>
