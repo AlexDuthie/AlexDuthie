@@ -1,11 +1,7 @@
 ## Socials
 
-<table>
-   <tr>
-     <td><a href="https://www.linkedin.com/in/alexduthielnkdn/"><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></a></td>
-     <td><a href="https://www.instagram.com/brokealexd/"><img src="assets/images/icons/social_media_icons/80x80/Instagram.png"></a></td>
-   </tr>
-</table>
+<a href="https://www.linkedin.com/in/alexduthielnkdn/"><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></a></td>
+<a href="https://www.instagram.com/brokealexd/"><img src="assets/images/icons/social_media_icons/80x80/Instagram.png"></a></td>
 
 ## Stats
 
