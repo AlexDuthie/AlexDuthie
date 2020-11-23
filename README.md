@@ -1,6 +1,6 @@
 ## Socials
 
-<table style="background: none;">
+<table style="background-color: none;">
   <thead>
     <tr>
       <td>Linkedin</td>
