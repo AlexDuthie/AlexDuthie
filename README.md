@@ -1,10 +1,6 @@
 ## Socials
 
-Linkedin                   | Facebook
-:-------------------------:|:-------------------------:
-![Linkedin](assets/images/icons/social_media_icons/80x80/Linkedin.png)  |  ![](assets/images/icons/social_media_icons/80x80/Facebook.png)
-
-<table>
+<table style="background: none;">
   <thead>
     <tr>
       <td>Linkedin</td>
