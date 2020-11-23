@@ -1,4 +1,4 @@
-# Alex Duthie | BSc Software Development Student
+> **Alex Duthie** | *BSc Software Development Student*
 
 ## Socials
 
