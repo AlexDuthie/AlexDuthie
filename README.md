@@ -8,4 +8,4 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![Linkedin](assets/images/icons/social_media_icons/80x80/linkedin.png)  |  ![](https://...Ocean.png)
+![Linkedin](assets/images/icons/social_media_icons/80x80/Linkedin.png)  |  ![](https://...Ocean.png)
