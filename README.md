@@ -3,12 +3,14 @@
 <table>
   <thead>
     <tr>
-      <td style="text-align: center;">Linkedin</td>
+      <td>Linkedin</td>
+      <td>Instagram</td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></td>
+      <td><img src="assets/images/icons/social_media_icons/80x80/Instagram.png"></td>
     </tr>
   </tbody>
 </table>
