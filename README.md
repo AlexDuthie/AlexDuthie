@@ -1,6 +1,6 @@
 ## Socials
 
-<table style="filter: opacity(100%);">
+<table>
   <thead>
     <tr>
       <td>Linkedin</td>
