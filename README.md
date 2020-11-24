@@ -8,7 +8,7 @@
 
 ## Github Stats
 
-![Brokealex's Github stats](https://github-readme-stats.vercel.app/api?username=brokealex&show_icons=true&theme=solarized-dark&count_private=true)
+![Brokealex's Github stats](https://github-readme-stats.vercel.app/api?username=AlexDuthie&show_icons=true&theme=solarized-dark&count_private=true)
 
 ## <img src="assets/images/icons/CoveredGeekly.png"> CoveredGeekly
 
