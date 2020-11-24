@@ -37,8 +37,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDuthie&layout=compact)](https://github.com/AlexDuthie/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexDuthie)](https://github.com/AlexDuthie/github-readme-stats)
-
 # <img src="assets/images/icons/CoveredGeekly.png"> CoveredGeekly
 
 > **[CoveredGeekly's Github](https://github.com/CoveredGeekly)**
