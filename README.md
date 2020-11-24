@@ -4,6 +4,7 @@
 
 <a href="https://github.com/AlexDuthie/TerraCare"><img src="assets/images/TerraCare.png"></a>
 <a href="https://github.com/AlexDuthie/CoveredGeekly"><img src="assets/images/CoveredGeekly.png"></a>
+<a href="https://github.com/AlexDuthie/uni-projects"><img src="assets/images/UHI.png"></a>
 
 ## Socials
 
