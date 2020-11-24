@@ -19,6 +19,11 @@
     </tbody>
 </table>
 
+## Github Organizations
+
+> **[CoveredGeekly's Github](https://github.com/CoveredGeekly)**
+> **[Soft Dev UHI](https://github.com/SoftDevUHI)**
+
 ## Socials
 
 <a href="https://www.linkedin.com/in/alexduthielnkdn/"><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></a>
