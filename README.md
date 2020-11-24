@@ -2,9 +2,9 @@
 
 ## Featured Repositories
 
-![TerraCare](https://github.com/AlexDuthie/TerraCare)
-![CoveredGeekly](https://github.com/AlexDuthie/CoveredGeekly)
-![Uni Projects](https://github.com/AlexDuthie/uni-projects)
+![TerraCare](assets/images/TerraCare.png)(https://github.com/AlexDuthie/TerraCare)
+![CoveredGeekly](assets/images/CoveredGeekly.png)(https://github.com/AlexDuthie/CoveredGeekly)
+![Uni Projects]()(https://github.com/AlexDuthie/uni-projects)
 
 ## Socials
 
