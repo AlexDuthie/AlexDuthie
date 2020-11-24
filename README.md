@@ -1,4 +1,10 @@
-> **Alex Duthie** | *BSc Software Development Student*
+# **Alex Duthie** | *BSc Software Development Student*
+
+## Featured Repositories
+
+![TerraCare](https://github.com/AlexDuthie/TerraCare)
+![CoveredGeekly](https://github.com/AlexDuthie/CoveredGeekly)
+![Uni Projects](https://github.com/AlexDuthie/uni-projects)
 
 ## Socials
 
