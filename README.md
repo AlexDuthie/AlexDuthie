@@ -22,6 +22,7 @@
 ## Github Organizations
 
 > **[CoveredGeekly's Github](https://github.com/CoveredGeekly)**
+
 > **[Soft Dev UHI](https://github.com/SoftDevUHI)**
 
 ## Socials
