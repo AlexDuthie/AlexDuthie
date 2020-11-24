@@ -12,7 +12,7 @@
     </thead>
     <tbody>
         <tr>
-            <a href="https://github.com/AlexDuthie/TerraCare"><td><img src="assets/images/TerraCare.png"></td></a>
+            <td><a href="https://github.com/AlexDuthie/TerraCare"><img src="assets/images/TerraCare.png"></a></td>
             <td><a href="https://github.com/AlexDuthie/CoveredGeekly"><img src="assets/images/CoveredGeekly.png"></a></td>
             <td><a href="https://github.com/AlexDuthie/uni-projects"><img src="assets/images/UHI.png"></a></td>
         </tr>
