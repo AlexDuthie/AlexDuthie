@@ -23,7 +23,7 @@
 
 ![Brokealex's Github stats](https://github-readme-stats.vercel.app/api?username=AlexDuthie&show_icons=true&theme=solarized-dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDuthie&layout=compact)](https://github.com/AlexDuthie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDuthie)](https://github.com/AlexDuthie/github-readme-stats)
 
 ## Github Organizations
 
