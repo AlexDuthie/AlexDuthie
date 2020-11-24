@@ -35,7 +35,7 @@
 
 ![Brokealex's Github stats](https://github-readme-stats.vercel.app/api?username=AlexDuthie&show_icons=true&theme=solarized-dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDuthie)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDuthie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # <img src="assets/images/icons/CoveredGeekly.png"> CoveredGeekly
 
