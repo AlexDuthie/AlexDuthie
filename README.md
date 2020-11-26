@@ -1,4 +1,4 @@
-## Alex Duthie's Socials
+## My Socials!
 
 <a href="https://www.linkedin.com/in/alexduthielnkdn/"><img src="assets/images/icons/social_media_icons/80x80/Linkedin.png"></a>
 <a href="https://www.instagram.com/brokealexd/"><img src="assets/images/icons/social_media_icons/80x80/Instagram.png"></a>
@@ -9,10 +9,6 @@
 
 # <img src="assets/images/icons/CoveredGeekly.png"> CoveredGeekly
 
-**[CoveredGeekly's Github](https://github.com/CoveredGeekly)**
-
-## Socials
-
 <a href="https://www.youtube.com/c/coveredgeekly"><img src="assets/images/icons/social_media_icons/80x80/YouTube.png"></a>
 <a href="https://www.instagram.com/coveredgeekly"><img src="assets/images/icons/social_media_icons/80x80/Instagram.png"></a>
 <a href="https://twitter.com/coveredgeekly"><img src="assets/images/icons/social_media_icons/80x80/Facebook.png"></a>
@@ -20,8 +16,6 @@
 <a href="https://www.patreon.com/user?u=34316453&fan_landing=true"><img src="assets/images/icons/social_media_icons/80x80/Patreon.png"></a>
 <a href="https://discord.gg/nHeKqxX"><img src="assets/images/icons/social_media_icons/80x80/Discord.png"></a>
 <a href="https://github.com/CoveredGeekly"><img src="assets/images/icons/social_media_icons/80x80/Github.png"></a>
-
-## CoveredGeekly Network Stats
 
 - **Total Followers:** ***3228***
 - **Total [YouTube](https://www.youtube.com/c/coveredgeekly) Views:** ***540.8K***
