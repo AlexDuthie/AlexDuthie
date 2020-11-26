@@ -18,9 +18,3 @@
 <a href="https://www.patreon.com/user?u=34316453&fan_landing=true"><img src="assets/images/icons/social_media_icons/80x80/Patreon.png"></a>
 <a href="https://discord.gg/nHeKqxX"><img src="assets/images/icons/social_media_icons/80x80/Discord.png"></a>
 <a href="https://github.com/CoveredGeekly"><img src="assets/images/icons/social_media_icons/80x80/Github.png"></a>
-
-- **Total Followers:** ***3228***
-- **Total [YouTube](https://www.youtube.com/c/coveredgeekly) Views:** ***540.8K***
-- **Total [Facebook](https://www.facebook.com/coveredgeekly) Hours Watched:** ***216***
-
-> *Last Updated 22/11/2020*
