@@ -1,24 +1,3 @@
-# **Alex Duthie** | *BSc Software Development Student*
-
-## Featured Repositories
-
-<table>
-    <thead>
-        <tr>
-            <td>TerraCare</td>
-            <td>CoveredGeekly</td>
-            <td>Uni Projects</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/AlexDuthie/TerraCare"><img src="assets/images/TerraCare.png"></a></td>
-            <td><a href="https://github.com/AlexDuthie/CoveredGeekly"><img src="assets/images/CoveredGeekly.png"></a></td>
-            <td><a href="https://github.com/AlexDuthie/uni-projects"><img src="assets/images/UHI.png"></a></td>
-        </tr>
-    </tbody>
-</table>
-
 ## Github Stats
 
 ![Brokealex's Github stats](https://github-readme-stats.vercel.app/api?username=AlexDuthie&show_icons=true&theme=solarized-dark&count_private=true)
