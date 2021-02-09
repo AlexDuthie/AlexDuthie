@@ -1,7 +1,6 @@
-## Github Stats
+### Alex Duthie's GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDuthie)](https://github.com/AlexDuthie/github-readme-stats)
-![Brokealex's Github stats](https://github-readme-stats.vercel.app/api?username=AlexDuthie&show_icons=true&theme=solarized-dark&count_private=true) 
+HEY!
 
 # Social Links
 
