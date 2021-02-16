@@ -23,4 +23,4 @@
 
 Hey &#128075;
 
-<img width="200" align="right" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
