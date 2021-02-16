@@ -23,4 +23,4 @@
 
 Hey &#128075;
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=alexduthie">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=alexduthie&repo=github-readme-stats">
