@@ -7,5 +7,5 @@
 </a>
 
 <a href="https://github.com/alexduthie">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true&theme=light&line_height=27&layout=compact" alt="Alex Duthie's GitHub Stats"/>
+ <img align="right" width="50" height="50" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true&theme=light&line_height=27" alt="Alex Duthie's GitHub Stats"/>
 </a>
