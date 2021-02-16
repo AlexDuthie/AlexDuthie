@@ -6,6 +6,9 @@
     </a>
 </p>
 
+<br>
+<br>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/alexduthielnkdn/">
         <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/linkedin.png">
