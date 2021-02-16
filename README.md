@@ -5,3 +5,5 @@
 <a href="https://github.com/alexduthie">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexduthie&layout=compact&theme=light&hide_langs_below=1" />
 </a>
+
+Hey &#12316; &#x301C;
