@@ -8,6 +8,10 @@
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
     </a>
+    <a href="http://www.coveredgeekly.com">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/coveredgeekly.png">
+    </a>
 </p>
 
 <p>
