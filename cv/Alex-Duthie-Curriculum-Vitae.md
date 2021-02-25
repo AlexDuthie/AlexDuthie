@@ -66,10 +66,10 @@ Baltic Training, CapGemini
 
 ## ADDITIONAL EDUCATION
 
-* MTA: Security Fundamentals | August - 2019 
-* IBM: Master the Mainframe 2020 – Level 2 | October – 2020
-* IBM: EDT Practitioner | November 2020
-* LinkedIn Learning Courses | Constantly 
+* **MTA**: Security Fundamentals | August - 2019 
+* **IBM**: Master the Mainframe 2020 – Level 2 | October – 2020
+* **IBM**: EDT Practitioner | November 2020
+* **LinkedIn Learning Courses** | Constantly 
  
 ## SKILLS
 
@@ -88,8 +88,8 @@ I get out with the kids and the dog every day and help them with their learning 
 
 ## REFERENCES
 
-DOUGLAS BARR, SOFTWARE DEVELOPER/ LECTURER, UHI WITH IBM
- E: DOUGLAS.BARR@ME.COM
+> DOUGLAS BARR, SOFTWARE DEVELOPER/ LECTURER, UHI WITH IBM
+[E: DOUGLAS.BARR@ME.COM](mailto:douglas.barr@me.com)
 
 TOM MCCALLUM, SOFTWARE ENGINER/ LECTURER, UHI WITH IBM
 E: MO04TM@UHI.AC.UK
