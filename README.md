@@ -33,6 +33,7 @@
 </p>
 
 <p align="center">Projects / Achievements</p>
+
 ---
 
 > 1st Place in IBM's 2020 Call for Code 'Spot Challenge'
