@@ -39,9 +39,4 @@
 1. [Lord of the Rings Monopoly - Java](https://github.com/AlexDuthie/monopoly)
 1. [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
 
-<p align="center">Recent Achievements</p>
-
-1. **1st Place in IBM's 2020 'Spot' Call for Code**
-1. **Surpassing 2000 subsribers and 1 million channel views in 12 months on my geeky blog's YouTube Channel**
-
 ---
