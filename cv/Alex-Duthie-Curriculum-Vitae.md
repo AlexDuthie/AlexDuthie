@@ -94,3 +94,4 @@ I get out with the kids and the dog every day and help them with their learning 
 | Lecturer | Lecturer |
 | UHI/ IBM | UHI/ IBM |
 | [EMAIL](mailto:douglas.barr@me.com?subject=Alex%20Duthie%20-%20Reference) | [EMAIL](mo04tm@uhi.ac.uk?subject=Alex%20Duthie%20-%20Reference) |
+| [Linkedin](https://www.linkedin.com/in/douglas-barr/) | [Linkedin](https://www.linkedin.com/in/drtommccallum/)
