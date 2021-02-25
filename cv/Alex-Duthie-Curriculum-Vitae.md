@@ -88,8 +88,9 @@ I get out with the kids and the dog every day and help them with their learning 
 
 ## REFERENCES
 
-> DOUGLAS BARR, SOFTWARE DEVELOPER/ LECTURER, UHI WITH IBM
-[E: DOUGLAS.BARR@ME.COM](mailto:douglas.barr@me.com?subject=[Reference for Alex Duthie])
-
-TOM MCCALLUM, SOFTWARE ENGINER/ LECTURER, UHI WITH IBM
-E: MO04TM@UHI.AC.UK
+| Douglas Barr | Tom McCallum |
+|--------------|--------------|
+| Software Developer | Software Engineer |
+| Lecturer | Lecturer |
+| UHI/ IBM | UHI/ IBM |
+| [EMAIL](mailto:douglas.barr@me.com) | [EMAIL](mo04tm@uhi.ac.uk) |
