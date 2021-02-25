@@ -34,4 +34,4 @@
 
 <header>Projects / Achievements<header></header>
 
-* 1st Place in IBM's 2020 Call for Code 'Spot Challenge'
+> 1st Place in IBM's 2020 Call for Code 'Spot Challenge'
