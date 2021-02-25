@@ -9,7 +9,7 @@
 1. [PERSONAL STATEMENT](#personal-statement)
 1. [WORK HISTORY](#work-history)
 1. [EDUCATION](#relevant-education)
-    1. [ADDITIONAL EDUCATION](#additional-education)
+    1.1 [ADDITIONAL EDUCATION](#additional-education)
 1. [SKILLS](#skills)
 1. [HOBBIES & INTERESTS](#hobbies)
 1. [REFERENCES](#references)
