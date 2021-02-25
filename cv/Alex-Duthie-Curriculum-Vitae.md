@@ -17,7 +17,6 @@
 1. [SKILLS](#skills)
 1. [HOBBIES & INTERESTS](#hobbies-&-interests)
 1. [REFERENCES](#references)
-
  
 ## PERSONAL STATEMENT
  
