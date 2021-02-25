@@ -12,6 +12,10 @@
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/coveredgeekly.png">
     </a>
+    <a href="https://github.com/AlexDuthie/AlexDuthie/blob/main/cv/Alex-Duthie-Curriculum-Vitae.md">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/cv.png">
+    </a>
 </p>
 
 <p>
