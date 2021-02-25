@@ -1,7 +1,7 @@
 # AlEX DUTHIE
 
 | My Info |
---|
+|--
 | 6 Twinning Link, Forres IV36 2TP |
 | 07845658018 |
 | [alexduthiemain@outlook.com](mailto:alexduthiemain@outlook.com) |
