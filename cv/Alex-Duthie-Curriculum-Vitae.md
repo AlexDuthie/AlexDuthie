@@ -73,10 +73,10 @@ Baltic Training, CapGemini
  
 ## SKILLS
 
-Great communication / team player – due to how much I enjoy collaborating with others.
-Keen to learn - having spent multiple years in university studying software, I must adapt to using new languages, technologies and whatever else is thrown in the mix.
-Creative mindset – due to spending a lot of time brainstorming ideas, writing blogs, creating content on tools such as Adobe PS and Premiere Pro. 
-Java & JavaScript / Vue [Semi-Intermediate] – having worked on university projects using these languages and advancing my skill with side projects, I am starting to feel quite confident and comfortable. 
+* **Great communication / team player** – due to how much I enjoy collaborating with others.
+* **Keen to learn** - having spent multiple years in university studying software, I must adapt to using new languages, technologies and whatever else is thrown in the mix.
+* **Creative mindset** – due to spending a lot of time brainstorming ideas, writing blogs, creating content on tools such as Adobe PS and Premiere Pro. 
+* **Java & JavaScript / Vue (Semi-Intermediate)** – having worked on university projects using these languages and advancing my skill with side projects, I am starting to feel quite confident and comfortable. 
 
 
 ## HOBBIES & INTERESTS
