@@ -32,6 +32,6 @@
     <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
 </p>
 
-# Projects / Achievements
+<header>Projects / Achievements<header></header>
 
 * 1st Place in IBM's 2020 Call for Code 'Spot Challenge'
