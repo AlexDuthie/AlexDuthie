@@ -7,11 +7,11 @@
 
 ### Contents
 1. [PERSONAL STATEMENT](#personal-statement)
-1. [WORK HISTORY](#work-history)
+1. [WORK HISTORY](#relevant-work-history)
 1. [EDUCATION](#relevant-education)
     1. [ADDITIONAL EDUCATION](#additional-education)
 1. [SKILLS](#skills)
-1. [HOBBIES & INTERESTS](#hobbies)
+1. [HOBBIES & INTERESTS](#hobbies-&-interests)
 1. [REFERENCES](#references)
 
  
