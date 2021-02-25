@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/alexduthielnkdn/">
         <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/linkedin.png">
     </a>&nbsp;&nbsp;
-    <a href="http://www.AlexDuthie.github.io">
+    <a href="https://alexduthie.github.io/">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
     </a>&nbsp;&nbsp;
