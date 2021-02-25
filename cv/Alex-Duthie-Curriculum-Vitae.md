@@ -6,6 +6,7 @@
 | [GITHUB](https://github.com/AlexDuthie) |
 | [LINKEDIN](https://www.linkedin.com/in/alexduthielnkdn/) |
 | DOB: 09/01/1995 |
+|-|
 
 
 ### Contents
