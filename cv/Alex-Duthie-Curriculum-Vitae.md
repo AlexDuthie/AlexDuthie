@@ -1,26 +1,27 @@
-<header align="center">AlEX DUTHIE</header>
+# AlEX DUTHIE
 <p align="center">
     6 TWINNING LINK, FORRES IV36 2TP / 07845658018 / ALEXDUTHIEMAIN@OUTLOOK.COM
     GITHUB: @ALEXDUTHIE / LINKEDIN: @ALEXDUTHIELNKDN / DOB: 09/01/1995
 </p>
 
 
-Contents
-PERSONAL STATEMENT	2
-WORK HISTORY	2
-EDUCATION	3
-SKILLS	4
-HOBBIES & INTERESTS	4
-REFERENCES	4
+### Contents
+1. [PERSONAL STATEMENT](#personal-statement)
+1. [WORK HISTORY](#work-history)
+1. [EDUCATION](#relevant-education)
+    1. [ADDITIONAL EDUCATION](#additional-education)
+1. [SKILLS](#skills)
+1. [HOBBIES & INTERESTS](#hobbies)
+1. [REFERENCES](#references)
 
  
-PERSONAL STATEMENT
+## PERSONAL STATEMENT
  
 I am a first year BSc software development ‘remote’ student at UHI/ IBM with existing qualifications in multiple areas of computing. I have experience using Java, JavaScript and Vue the most but only at an early university level, nothing at a large scale. I also get to dabble with dozens of IBM Cloud’s technologies provided to me by my course heads for team projects in class. My Wife and I have three children which motivates me to succeed and progress in my career. 
 
 
 
-RELEVANT WORK HISTORY
+## RELEVANT WORK HISTORY
 
 Student BSc ‘Junior’ Software Developer	September 2020 – Current
 UHI/ IBM, Remote		
@@ -36,7 +37,7 @@ I started as an apprentice and stayed on for just over a year. My role was to wo
 
 Key achievement: Earned my SVQ Level 3 in Information Technology
  
-RELEVANT EDUCATION
+## RELEVANT EDUCATION
 
 BSc in Applied Software Development	September 2020 – July 2024
 UHI/ IBM, Remote		
@@ -63,14 +64,14 @@ SVQ Level 3 in Information Technology	Nov 2011 – Nov 2012
 Baltic Training, CapGemini		
 
 
-ADDITIONAL EDUCATION
+## ADDITIONAL EDUCATION
 
 MTA: Security Fundamentals	August - 2019 
 IBM: Master the Mainframe 2020 – Level 2	October – 2020
 IBM: EDT Practitioner	November 2020
 LinkedIn Learning Courses	Constantly 
  
-SKILLS
+## SKILLS
 
 Great communication / team player – due to how much I enjoy collaborating with others.
 Keen to learn - having spent multiple years in university studying software, I must adapt to using new languages, technologies and whatever else is thrown in the mix.
@@ -78,14 +79,14 @@ Creative mindset – due to spending a lot of time brainstorming ideas, writing 
 Java & JavaScript / Vue [Semi-Intermediate] – having worked on university projects using these languages and advancing my skill with side projects, I am starting to feel quite confident and comfortable. 
 
 
-HOBBIES & INTERESTS
-HTTPS://WWW.CVTEMPLATEMASTER.COM 
+## HOBBIES & INTERESTS
+
 When I’m not working or studying, I am usually blogging or being creative somehow on the computer. I have found myself using Adobe packages such as Photoshop, After Effect and Premiere Pro a lot over the last couple years which I have an increasing interest in.
 
 I get out with the kids and the dog every day and help them with their learning in-between mine so it there Is always something to keep me busy basically. Proper downtime though is having a cup of tea whilst playing Xbox for the last hour of the day!
 
 
-REFERENCES
+## REFERENCES
 
 DOUGLAS BARR, SOFTWARE DEVELOPER/ LECTURER, UHI WITH IBM
  E: DOUGLAS.BARR@ME.COM
