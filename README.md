@@ -32,12 +32,16 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
 </p>
 
-<p align="center">Projects / Achievements</p>
+<p align="center">Projects</p>
 
-1. 1st Place in IBM's 2020 'Spot' Call for Code
 1. [Website Portfolio/ Blog](http://alexduthie.github.io/)
 1. [Geeky Blog](https://www.coveredgeekly.com)
 1. [Lord of the Rings Monopoly - Java](https://github.com/AlexDuthie/monopoly)
 1. [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
+
+<p align="center">Recent Achievements</p>
+
+1. **1st Place in IBM's 2020 'Spot' Call for Code**
+1. **Surpassing 2000 subsribers and 1 million channel views in 12 months on my geeky blog's YouTube Channel**
 
 ---
