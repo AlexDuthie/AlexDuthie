@@ -29,7 +29,7 @@
 ---
 
 <p>
-    <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
 </p>
 
 <header>Projects / Achievements</header>
