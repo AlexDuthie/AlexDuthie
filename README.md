@@ -28,8 +28,6 @@
 
 > In my spare time I practice designing and editing content for blogs and social media through my geeky creative outlet **CoveredGeekly**.
 
-<br>
-
 ---
 
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
