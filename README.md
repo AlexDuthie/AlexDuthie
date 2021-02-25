@@ -34,6 +34,10 @@
 
 <p align="center">Projects / Achievements</p>
 
----
+> 1st Place in IBM's 2020 'Spot' Call for Code
+> [Website Portfolio/ Blog](http://alexduthie.github.io/)
+> [Geeky Blog](https://www.coveredgeekly.com)
+> [Lord of the Rings Monopoly - Java](https://github.com/AlexDuthie/monopoly)
+> [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
 
-> 1st Place in IBM's 2020 Call for Code 'Spot Challenge'
+---
