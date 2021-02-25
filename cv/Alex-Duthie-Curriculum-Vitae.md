@@ -93,4 +93,4 @@ I get out with the kids and the dog every day and help them with their learning 
 | Software Developer | Software Engineer |
 | Lecturer | Lecturer |
 | UHI/ IBM | UHI/ IBM |
-| [EMAIL](mailto:douglas.barr@me.com?subject=Alex?Duthie?Reference) | [EMAIL](mo04tm@uhi.ac.uk) |
+| [EMAIL](mailto:douglas.barr@me.com?subject=Alex%20Duthie%20Reference) | [EMAIL](mo04tm@uhi.ac.uk?subject=Alex%20Duthie%20Reference) |
