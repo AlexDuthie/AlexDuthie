@@ -19,7 +19,7 @@
  
 I am a first year BSc software development ‘remote’ student at UHI/ IBM with existing qualifications in multiple areas of computing. I have experience using Java, JavaScript and Vue the most but only at an early university level, nothing at a large scale. I also get to dabble with dozens of IBM Cloud’s technologies provided to me by my course heads for team projects in class. My Wife and I have three children which motivates me to succeed and progress in my career. 
 
-
+> [BACK TO TOP](#alex-duthie)
 
 ## RELEVANT WORK HISTORY
 
@@ -37,6 +37,8 @@ I started as an apprentice and stayed on for just over a year. My role was to wo
 
 Key achievement: Earned my SVQ Level 3 in Information Technology
  
+> [BACK TO TOP](#alex-duthie) 
+
 ## RELEVANT EDUCATION
 
 > **BSc in Applied Software Development** (September 2020 – July 2024)
@@ -68,13 +70,16 @@ Core Concepts:
 
 ```Baltic Training, CapGemini```		
 
+> [BACK TO TOP](#alex-duthie)
 
 ## ADDITIONAL EDUCATION
 
 * **MTA**: Security Fundamentals | August - 2019 
 * **IBM**: Master the Mainframe 2020 – Level 2 | October – 2020
 * **IBM**: EDT Practitioner | November 2020
-* **LinkedIn Learning Courses** | Constantly 
+* **LinkedIn Learning Courses** | Constantly
+
+> [BACK TO TOP](#alex-duthie)
  
 ## SKILLS
 
@@ -83,6 +88,7 @@ Core Concepts:
 * **Creative mindset** – due to spending a lot of time brainstorming ideas, writing blogs, creating content on tools such as Adobe PS and Premiere Pro. 
 * **Java & JavaScript / Vue (Semi-Intermediate)** – having worked on university projects using these languages and advancing my skill with side projects, I am starting to feel quite confident and comfortable. 
 
+> [BACK TO TOP](#alex-duthie)
 
 ## HOBBIES & INTERESTS
 
@@ -90,6 +96,7 @@ When I’m not working or studying, I am usually blogging or being creative some
 
 I get out with the kids and the dog every day and help them with their learning in-between mine so it there Is always something to keep me busy basically. Proper downtime though is having a cup of tea whilst playing Xbox for the last hour of the day!
 
+> [BACK TO TOP](#alex-duthie)
 
 ## REFERENCES
 
@@ -100,3 +107,5 @@ I get out with the kids and the dog every day and help them with their learning 
 | UHI/ IBM | UHI/ IBM |
 | [EMAIL](mailto:douglas.barr@me.com?subject=Alex%20Duthie%20-%20Reference) | [EMAIL](mo04tm@uhi.ac.uk?subject=Alex%20Duthie%20-%20Reference) |
 | [Linkedin](https://www.linkedin.com/in/douglas-barr/) | [Linkedin](https://www.linkedin.com/in/drtommccallum/)
+
+> [BACK TO TOP](#alex-duthie)
