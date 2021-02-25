@@ -34,10 +34,11 @@
 
 <p align="center">Projects</p>
 
-1. [Website Portfolio/ Blog](http://alexduthie.github.io/)
+1. [Personal Portfolio/ Blog](http://alexduthie.github.io/)
 1. [Geeky Blog](https://www.coveredgeekly.com)
 1. [Lord of the Rings Monopoly - Java](https://github.com/AlexDuthie/monopoly)
 1. [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
+1. [Personal Portfolio/ Blog Repository](https://github.com/AlexDuthie/AlexDuthie.github.io)
 
 <br><br><br>
 
