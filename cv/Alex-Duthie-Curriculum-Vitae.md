@@ -1,7 +1,7 @@
 # AlEX DUTHIE
 <p align="center">
     **6 TWINNING LINK, FORRES IV36 2TP / 07845658018 / ALEXDUTHIEMAIN@OUTLOOK.COM
-    [GITHUB: @ALEXDUTHIE](https://github.com/AlexDuthie) / [LINKEDIN: @ALEXDUTHIELNKDN](https://www.linkedin.com/in/alexduthielnkdn/) / DOB: 09/01/1995**
+    [GITHUB](https://github.com/AlexDuthie) / [LINKEDIN](https://www.linkedin.com/in/alexduthielnkdn) / DOB: 09/01/1995**
 </p>
 
 
