@@ -3,16 +3,10 @@
 | 6 Twinning Link, Forres IV36 2TP |
 |-|
 | 07845658018 |
-|-|
 | [alexduthiemain@outlook.com](mailto:alexduthiemain@outlook.com) |
-|-|
 | [GITHUB](https://github.com/AlexDuthie) |
-|-|
 | [LINKEDIN](https://www.linkedin.com/in/alexduthielnkdn/) |
-|-|
 | DOB: 09/01/1995 |
-|-|
-
 
 ### Contents
 1. [PERSONAL STATEMENT](#personal-statement)
