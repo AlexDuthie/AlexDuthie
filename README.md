@@ -7,7 +7,7 @@
     <a href="http://www.AlexDuthie.github.io">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="http://www.coveredgeekly.com">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/coveredgeekly.png">
