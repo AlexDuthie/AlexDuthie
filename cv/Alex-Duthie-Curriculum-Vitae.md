@@ -39,7 +39,8 @@ Key achievement: Earned my SVQ Level 3 in Information Technology
  
 ## RELEVANT EDUCATION
 
-BSc in Applied Software Development	September 2020 – July 2024
+> BSc in Applied Software Development	September 2020 – July 2024
+
 UHI/ IBM, Remote		
 
 Core Concepts: 
@@ -50,15 +51,16 @@ Core Concepts:
 -	Databases
 -	Data languages
  
-NQ 6 in Computer Science	September 2018 – July 2019
+> NQ 6 in Computer Science	September 2018 – July 2019
 UHI, Inverness		
 
 -	NPA: Software Development
 -	NPA: Cyber Security
 -	NPA: Network and Server Fundamentals
 
-NC 5 in Computer Science	September 2017 – July 2018
-UHI, Inverness		
+> NC 5 in Computer Science	September 2017 – July 2018
+
+```UHI, Inverness```		
 
 SVQ Level 3 in Information Technology	Nov 2011 – Nov 2012
 Baltic Training, CapGemini		
