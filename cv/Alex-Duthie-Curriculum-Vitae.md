@@ -66,10 +66,10 @@ Baltic Training, CapGemini
 
 ## ADDITIONAL EDUCATION
 
-MTA: Security Fundamentals	August - 2019 
-IBM: Master the Mainframe 2020 – Level 2	October – 2020
-IBM: EDT Practitioner	November 2020
-LinkedIn Learning Courses	Constantly 
+* MTA: Security Fundamentals | August - 2019 
+* IBM: Master the Mainframe 2020 – Level 2 | October – 2020
+* IBM: EDT Practitioner | November 2020
+* LinkedIn Learning Courses | Constantly 
  
 ## SKILLS
 
