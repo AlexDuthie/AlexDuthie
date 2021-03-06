@@ -34,7 +34,7 @@
 
 <p align="center">Projects</p>
 
-1. [Personal Blog](https://github.com/AlexDuthie/AlexDuthie.github.io) - [WWW](https://wwwAlexDuthie.github.io)
+1. [Personal Blog](https://github.com/AlexDuthie/AlexDuthie.github.io) - [AlexDuthie.github.io](https://wwwAlexDuthie.github.io)
 1. [Geeky Blog](https://www.coveredgeekly.com)
 1. [Lord of the Rings Monopoly - Java](https://github.com/AlexDuthie/monopoly)
 1. [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
