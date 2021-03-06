@@ -1,6 +1,6 @@
-# AlEX DUTHIE
+# ALEX DUTHIE
 
-| My Info |
+| MY INFO |
 |-|
 | 6 Twinning Link, Forres IV36 2TP |
 | 07845658018 |
@@ -9,7 +9,7 @@
 | [LINKEDIN](https://www.linkedin.com/in/alexduthielnkdn/) |
 | DOB: 09/01/1995 |
 
-### Contents
+### CONTENTS
 1. [PERSONAL STATEMENT](#personal-statement)
 1. [WORK HISTORY](#relevant-work-history)
 1. [EDUCATION](#relevant-education)
