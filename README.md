@@ -34,7 +34,7 @@
 
 <p align="center">Projects</p>
 
-* **Portfolio**: 
+**Portfolio**: 
     * [AlexDuthie.me](https://alexduthie.me/)
     * [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
 * **University Projects**: 
