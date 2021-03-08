@@ -34,7 +34,7 @@
 
 <p align="center">Projects</p>
 
-1. **Personal Blog**: [AlexDuthie.me](http://alexduthie.me/) - [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
+1. **Personal Blog**: [AlexDuthie.me](https://alexduthie.me/) - [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
 1. **University Project**: [Lord of the Rings Monopoly - Java](https://github.com/AlexDuthie/monopoly)
 1. **Personal Project**: [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
 
