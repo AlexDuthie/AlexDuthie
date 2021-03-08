@@ -35,8 +35,10 @@
 <p align="center">Projects</p>
 
 **Portfolio**: 
-    * [AlexDuthie.me](https://alexduthie.me/)
-    * [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
+
+* [AlexDuthie.me](https://alexduthie.me/)
+* [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
+
 * **University Projects**: 
     * [Monopoly - LOTR Edition](https://github.com/AlexDuthie/monopoly)
 * **Personal Projects**: 
