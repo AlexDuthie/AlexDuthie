@@ -34,11 +34,13 @@
 
 <p align="center">Projects</p>
 
-1. **Personal Blog**: [AlexDuthie.me](https://alexduthie.me/) - [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
-1. **University Projects**: 
-    1. [Monopoly - LOTR Edition](https://github.com/AlexDuthie/monopoly)
-1. **Personal Projects**: 
-    1. [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
+* **Portfolio**: 
+    * [AlexDuthie.me](https://alexduthie.me/)
+    * [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
+* **University Projects**: 
+    * [Monopoly - LOTR Edition](https://github.com/AlexDuthie/monopoly)
+* **Personal Projects**: 
+    * [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
 
 <br><br><br>
 
