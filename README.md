@@ -35,8 +35,10 @@
 <p align="center">Projects</p>
 
 1. **Personal Blog**: [AlexDuthie.me](https://alexduthie.me/) - [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
-1. **University Project**: [Lord of the Rings Monopoly - Java](https://github.com/AlexDuthie/monopoly)
-1. **Personal Project**: [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
+1. **University Projects**: 
+    1. [Monopoly - LOTR Edition](https://github.com/AlexDuthie/monopoly)
+1. **Personal Projects**: 
+    1. [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
 
 <br><br><br>
 
