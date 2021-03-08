@@ -36,7 +36,8 @@
 
 * **Web Portfolio**: [AlexDuthie.me](https://alexduthie.me/)
 * **Web Portfolio**: [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
-* [Monopoly - LOTR Edition](https://github.com/AlexDuthie/monopoly)
+* **Game**: [Monopoly | Middle Earth Edition (WIP)](https://github.com/AlexDuthie/monopoly)
+* **App**: [Family Meal Planner (TBD)]
 
 <br><br><br>
 
