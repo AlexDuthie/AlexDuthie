@@ -32,13 +32,12 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
 </p>
 
-<h1 align="left">Projects</h1>
+<h3 align="left">Projects</h1>
 
 * **Web Portfolio**: [AlexDuthie.me](https://alexduthie.me/)
 * **Web Portfolio**: [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
 * **Game**: [Monopoly | Middle Earth Edition (WIP)](https://github.com/AlexDuthie/monopoly)
 * **App**: [Family Meal Planner (TBD)](https://github.com/AlexDuthie/family-meal-planner)
-* ****: 
 
 <br><br><br>
 
