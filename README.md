@@ -34,15 +34,9 @@
 
 <p align="center">Projects</p>
 
-**Portfolio**: 
-
-* [AlexDuthie.me](https://alexduthie.me/)
-* [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
-
-* **University Projects**: 
-    * [Monopoly - LOTR Edition](https://github.com/AlexDuthie/monopoly)
-* **Personal Projects**: 
-    * [Family Meal Planner](https://github.com/AlexDuthie/Family-Meal-Planner)
+* **Web Portfolio**: [AlexDuthie.me](https://alexduthie.me/)
+* **Web Portfolio**: [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
+* [Monopoly - LOTR Edition](https://github.com/AlexDuthie/monopoly)
 
 <br><br><br>
 
