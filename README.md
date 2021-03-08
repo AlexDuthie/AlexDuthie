@@ -32,7 +32,6 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=alexduthie&show_icons=true">
 </p>
 
-<br>
 <h3 align="left">Projects</h1>
 
 * **Web Portfolio**: [AlexDuthie.me](https://alexduthie.me/)
