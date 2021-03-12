@@ -54,6 +54,10 @@
 </p>
 <p align="center">
     <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/coveredgeekly.png">&nbsp;&nbsp;
+    <a href="https://www.coveredgeekly.com">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
+    </a>&nbsp;&nbsp;
     <a href="https://www.youtube.com/c/CoveredGeekly">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
