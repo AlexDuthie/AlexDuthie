@@ -14,7 +14,7 @@
     <a href="https://stackoverflow.com/users/14725277/alex-duthie">
         <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/stack-overflow.png">
     </a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/c/CoveredGeekly">
+    <a href="https://www.youtube.com/c/BrokeAlex">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
     </a>&nbsp;&nbsp;
@@ -22,6 +22,16 @@
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/cv.png">
     </a>
+</p>
+
+<p align="center">
+    CoveredGeekly's Socials
+</p>
+<p align="center">
+    <a href="https://www.youtube.com/c/CoveredGeekly">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
+    </a>&nbsp;&nbsp;
 </p>
 
 <p>
