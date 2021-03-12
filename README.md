@@ -53,6 +53,7 @@
     CoveredGeekly's Socials
 </p>
 <p align="center">
+    <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/coveredgeekly.png">&nbsp;&nbsp;
     <a href="https://www.youtube.com/c/CoveredGeekly">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
@@ -66,4 +67,5 @@
     <a href="https://twitter.com/CoveredGeekly">
         <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/twitter.png">
     </a>&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/coveredgeekly.png">&nbsp;&nbsp;
 </p>
