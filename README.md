@@ -24,25 +24,6 @@
     </a>
 </p>
 
-<p align="center">
-    CoveredGeekly's Socials
-</p>
-<p align="center">
-    <a href="https://www.youtube.com/c/CoveredGeekly">
-        <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/coveredgeekly">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/instagram.png">
-    </a>
-    <a href="https://www.facebook.com/CoveredGeekly/">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/facebook.png">
-    </a>
-    <a href="https://twitter.com/CoveredGeekly">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/twitter.png">
-    </a>
-</p>
-
 <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexduthie&layout=compact&theme=light&hide_langs_below=1" />
 </p>
@@ -67,3 +48,22 @@
 <br><br><br>
 
 ---
+
+<p align="center">
+    CoveredGeekly's Socials
+</p>
+<p align="center">
+    <a href="https://www.youtube.com/c/CoveredGeekly">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.instagram.com/coveredgeekly">
+        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/instagram.png">
+    </a>
+    <a href="https://www.facebook.com/CoveredGeekly/">
+        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/facebook.png">
+    </a>
+    <a href="https://twitter.com/CoveredGeekly">
+        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/twitter.png">
+    </a>
+</p>
