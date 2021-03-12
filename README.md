@@ -11,9 +11,9 @@
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
     </a>&nbsp;&nbsp;
-    <a href="http://www.coveredgeekly.com">
+    <a href="http://www.youtube.com/c/coveredgeeekly">
         <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/coveredgeekly.png">
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/AlexDuthie/AlexDuthie/blob/main/cv/Alex-Duthie-Curriculum-Vitae.md">
         <img
