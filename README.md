@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/alexduthielnkdn/">
         <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/linkedin.png">
     </a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/14725277/alex-duthie">
+        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/stack-overflow.png">
+    </a>&nbsp;&nbsp;
     <a href="https://alexduthie.me">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
