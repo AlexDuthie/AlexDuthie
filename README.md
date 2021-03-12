@@ -1,6 +1,6 @@
 # [![Alex Duthie | GitHub Banner](https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/github-banner.png)](https://www.linkedin.com/in/alexduthielnkdn/)
 
-<p align="center">
+<p align="center" display="flex">
 <p align="center">
     Socials
 </p>
