@@ -41,7 +41,7 @@
 <h3 align="left">Projects</h1>
 
 * **Web Portfolio**: [AlexDuthie.me](https://alexduthie.me/) - [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
-* **CoveredGeekly (Geeky Blog)**: | [CoveredGeekly.com](https://www.coveredgeekly.com) - [GitHub Org](https://github.com/CoveredGeekly)
+* **CoveredGeekly**: [CoveredGeekly.com](https://www.coveredgeekly.com) - [GitHub Org](https://github.com/CoveredGeekly)
 * **Game**: [Monopoly | Middle Earth Edition (WIP)](https://github.com/AlexDuthie/monopoly)
 * **App**: [Family Meal Planner (TBD)](https://github.com/AlexDuthie/family-meal-planner)
 
