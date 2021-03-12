@@ -1,6 +1,7 @@
 # [![Alex Duthie | GitHub Banner](https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/github-banner.png)](https://www.linkedin.com/in/alexduthielnkdn/)
 
 <p align="center">
+<p align="center">
     Socials
 </p>
 <p align="center">
@@ -36,6 +37,7 @@
 
 <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexduthie&layout=compact&theme=light&hide_langs_below=1" />
+</p>
 </p>
 
 > I am a first year BSc software development ‘remote’ student at UHI/ IBM with existing qualifications in multiple areas of computing. I have experience using Java, JavaScript and Vue the most but only at an early university level, nothing at a large scale. I also get to dabble with dozens of IBM Cloud’s technologies provided to me by my course heads for team projects in class. My Wife and I have three children which motivates me to succeed and progress in my career.
