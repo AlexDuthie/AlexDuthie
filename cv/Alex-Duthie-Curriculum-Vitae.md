@@ -1,5 +1,7 @@
 # ALEX DUTHIE
 
+> See [HERE](https://github.com/AlexDuthie/AlexDuthie/blob/main/cv/Alex-Duthie-Curriculum-Vitae.docx) for word document version.
+
 | MY INFO |
 |-|
 | 6 Twinning Link, Forres IV36 2TP |
