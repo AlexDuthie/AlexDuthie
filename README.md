@@ -18,9 +18,9 @@
     <a href="https://stackoverflow.com/users/14725277/alex-duthie">
         <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/stack-overflow.png">
     </a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/c/BrokeAlex">
+    <a href="https://www.hackerrank.com/alexduthie">
         <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/hackerrank.png">
     </a>&nbsp;&nbsp;
     <a href="https://github.com/AlexDuthie/AlexDuthie/blob/main/cv/Alex-Duthie-Curriculum-Vitae.md">
         <img
