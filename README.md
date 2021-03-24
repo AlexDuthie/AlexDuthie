@@ -32,7 +32,7 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexduthie&layout=compact&theme=light&hide_langs_below=1" />
 </p>
 
-> I am a first year BSc software development ‘remote’ student at UHI/ IBM with existing qualifications in multiple areas of computing. I have experience using Java, JavaScript and Vue the most but only at an early university level, nothing at a large scale. I also get to dabble with dozens of IBM Cloud’s technologies provided to me by my course heads for team projects in class. My Wife and I have three children which motivates me to succeed and progress in my career.
+> I'm a first year [BSc Software Development](https://www.uhi.ac.uk/en/courses/bsc-hons-applied-software-development/#tabanchor) student at UHI/ IBM with existing qualifications in multiple areas of computing. As an applied software student, I work on short projects within a small team of 3-5 where we apply agile principles using IBM Cloud technology and dozens of languages/ frameworks.
 
 > In my spare time I practice designing and editing content for blogs and social media through my geeky creative outlet **CoveredGeekly**.
 
