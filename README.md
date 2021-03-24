@@ -32,9 +32,9 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexduthie&layout=compact&theme=light&hide_langs_below=1" />
 </p>
 
-> I'm a first year [BSc Software Development](https://www.uhi.ac.uk/en/courses/bsc-hons-applied-software-development/#tabanchor) student at UHI/ IBM with existing qualifications in multiple areas of computing. As an applied software student, I work on short projects within a small team of 3-5 where we apply agile principles using IBM Cloud technology and dozens of languages/ frameworks.
+> I'm a first year [BSc Software Development](https://www.uhi.ac.uk/en/courses/bsc-hons-applied-software-development/#tabanchor) student at UHI/ IBM with existing qualifications in multiple areas of computing. As an applied software student, I work on short projects within a small team of 3-5 where we apply agile principles using [IBM Cloud](https://www.ibm.com/uk-en/cloud) technology and dozens of languages/ frameworks.
 
-> In my spare time I practice designing and editing content for blogs and social media through my geeky creative outlet **CoveredGeekly**.
+> In my spare time I practice designing and editing content for blogs and social media through my geeky creative outlet [CoveredGeekly](https://coveredgeekly.com) or updating my personal website [AlexDuthie.com](https://alexduthie.com).
 
 ---
 
