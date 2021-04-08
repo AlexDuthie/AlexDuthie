@@ -41,6 +41,13 @@
     ✏ Currently Working On
 </h2>
 
-| Project | What is it? | Link |
-|-|-|-|
-||||
+<table>
+    <th>
+        <td>Project</td>
+        <td>What is it?</td>
+    </th>
+    <tr>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
