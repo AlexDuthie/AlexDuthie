@@ -45,29 +45,3 @@
 * **CoveredGeekly**: [CoveredGeekly.com](https://www.coveredgeekly.com) - [GitHub Org](https://github.com/CoveredGeekly)
 * **Game**: [Monopoly | Middle Earth Edition (WIP)](https://github.com/AlexDuthie/monopoly)
 * **App**: [Family Meal Planner (TBD)](https://github.com/AlexDuthie/family-meal-planner)
-
-<h2 align="left">
-    🤓 CoveredGeekly
-</h2>
-<p align="left">
-    <a href="https://www.coveredgeekly.com">
-        <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.youtube.com/c/CoveredGeekly">
-        <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/youtube.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/coveredgeekly">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/instagram.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/CoveredGeekly/">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/facebook.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://twitter.com/CoveredGeekly">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/twitter.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com/CoveredGeekly">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/github.png">
-    </a>&nbsp;&nbsp;
-</p>
