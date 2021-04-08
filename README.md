@@ -38,10 +38,9 @@
 > In my spare time I practice designing and editing content for blogs and social media through my geeky creative outlet [CoveredGeekly](https://coveredgeekly.com) or updating my personal website [AlexDuthie.com](https://alexduthie.com).
 
 <h2 align="left">
-    ✏ Projects
+    ✏ Currently Working On
 </h2>
 
-* **Web Portfolio**: [AlexDuthie.me](https://alexduthie.me/) - [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
-* **CoveredGeekly**: [CoveredGeekly.com](https://www.coveredgeekly.com) - [GitHub Org](https://github.com/CoveredGeekly)
-* **Game**: [Monopoly | Middle Earth Edition (WIP)](https://github.com/AlexDuthie/monopoly)
-* **App**: [Family Meal Planner (TBD)](https://github.com/AlexDuthie/family-meal-planner)
+| Project | What is it? | |
+|-|-|
+|||
