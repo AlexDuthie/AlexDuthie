@@ -3,6 +3,7 @@
 <h2 align="center">
     🤳 My Socials
 </h2>
+
 <p align="center">
     <a href="https://alexduthie.me">
         <img
@@ -35,8 +36,6 @@
 > I'm a first year [BSc Software Development](https://www.uhi.ac.uk/en/courses/bsc-hons-applied-software-development/#tabanchor) student at UHI/ IBM with existing qualifications in multiple areas of computing. As an applied software student, I work on short projects within a small team of 3-5 where we apply agile principles using [IBM Cloud](https://www.ibm.com/uk-en/cloud) technology and dozens of languages/ frameworks.
 
 > In my spare time I practice designing and editing content for blogs and social media through my geeky creative outlet [CoveredGeekly](https://coveredgeekly.com) or updating my personal website [AlexDuthie.com](https://alexduthie.com).
-
----
 
 <h2 align="center">
     ✏ Projects
