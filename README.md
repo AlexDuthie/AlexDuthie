@@ -46,8 +46,6 @@
 * **Game**: [Monopoly | Middle Earth Edition (WIP)](https://github.com/AlexDuthie/monopoly)
 * **App**: [Family Meal Planner (TBD)](https://github.com/AlexDuthie/family-meal-planner)
 
----
-
 <h2 align="left">
     🤓 CoveredGeekly
 </h2>
