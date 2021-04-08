@@ -42,10 +42,10 @@
 </h2>
 
 <table>
-    <th>
-        <td>Project</td>
-        <td>What is it?</td>
-    </th>
+    <tr>
+        <th>Project</th>
+        <th>What is it?</th>
+    </tr>
     <tr>
         <td></td>
         <td></td>
