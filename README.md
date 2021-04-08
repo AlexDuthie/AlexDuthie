@@ -1,10 +1,10 @@
 # [![Alex Duthie | GitHub Banner](https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/github-banner.png)](https://www.linkedin.com/in/alexduthielnkdn/)
 
 <h2 align="left">
-    🤳 My Socials
+    🤳 MySocials
 </h2>
 
-<p align="center">
+<p align="left">
     <a href="https://alexduthie.me">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
