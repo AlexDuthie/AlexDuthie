@@ -41,6 +41,6 @@
     ✏ Currently Working On
 </h2>
 
-| Project | What is it? | |
-|-|-|
-|||
+| Project | What is it? | Link |
+|-|-|-|
+||||
