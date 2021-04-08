@@ -1,8 +1,8 @@
 # [![Alex Duthie | GitHub Banner](https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/github-banner.png)](https://www.linkedin.com/in/alexduthielnkdn/)
 
-<h1 align="center">
+<h2 align="center">
     🤳 My Socials
-</h1>
+</h2>
 <p align="center">
     <a href="https://alexduthie.me">
         <img
@@ -38,9 +38,9 @@
 
 ---
 
-<h3 align="center">
+<h2 align="center">
     ✏ Projects
-</h1>
+</h2>
 
 * **Web Portfolio**: [AlexDuthie.me](https://alexduthie.me/) - [Git Repo](https://github.com/AlexDuthie/AlexDuthie.github.io)
 * **CoveredGeekly**: [CoveredGeekly.com](https://www.coveredgeekly.com) - [GitHub Org](https://github.com/CoveredGeekly)
