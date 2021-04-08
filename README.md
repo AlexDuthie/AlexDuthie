@@ -1,6 +1,6 @@
 # [![Alex Duthie | GitHub Banner](https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/github-banner.png)](https://www.linkedin.com/in/alexduthielnkdn/)
 
-<h2 align="center">
+<h2 align="left">
     🤳 My Socials
 </h2>
 
@@ -37,7 +37,7 @@
 
 > In my spare time I practice designing and editing content for blogs and social media through my geeky creative outlet [CoveredGeekly](https://coveredgeekly.com) or updating my personal website [AlexDuthie.com](https://alexduthie.com).
 
-<h2 align="center">
+<h2 align="left">
     ✏ Projects
 </h2>
 
