@@ -48,9 +48,9 @@
 
 ---
 
-<h3 align="left">
+<h2 align="left">
     🤓 CoveredGeekly
-</h3>
+</h2>
 <p align="left">
     <a href="https://www.coveredgeekly.com">
         <img
