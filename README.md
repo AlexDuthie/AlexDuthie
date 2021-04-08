@@ -1,7 +1,7 @@
 # [![Alex Duthie | GitHub Banner](https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/github-banner.png)](https://www.linkedin.com/in/alexduthielnkdn/)
 
 <h2 align="left">
-    🤳 MySocials
+    🤳 Socials
 </h2>
 
 <p align="left">
@@ -48,10 +48,10 @@
 
 ---
 
-<p align="center">
-    CoveredGeekly's Socials
-</p>
-<p align="center">
+<h3 align="left">
+    🤓 CoveredGeekly
+</h3>
+<p align="left">
     <a href="https://www.coveredgeekly.com">
         <img
              src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
