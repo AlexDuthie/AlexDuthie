@@ -42,10 +42,10 @@
 </h2>
 
 <table>
-    <tr>
+    <thead align="center">
         <th>Project</th>
         <th>What is it?</th>
-    </tr>
+    </thead>
     <tr>
         <td></td>
         <td></td>
