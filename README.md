@@ -107,11 +107,11 @@
         <tr>
             <td>
                 <a href="https://github.com/AlexDuthie/TerraCare">
-                    TerraCare
+                    TerraCare 🌳
                 </a>
             </td>
             <td>
-                1st Prize Winning Submission in IBM's Call for Code Spot Challenge for Energy Sustainability.
+                🥇 1st Prize Winning Submission in IBM's Call for Code Spot Challenge for Energy Sustainability.
                 <br><br>
                 A browser extension that compares products online for their energy consumption rates, making it easy for online shoppers to reduce their carbon footprint.
             </td>
