@@ -88,14 +88,17 @@
         <tr>
             <td>
                 <a href="https://github.com/AlexDuthie/TerraCare">
-                    TerraCare Platform 🌳
+                    TerraCare Browser Extension 🌲
                 </a>
             </td>
             <td>
-                1st Prize Winner in IBM's Call for Code Spot Challenge for Energy Sustainability. A browser extension that compares online products for their energy consumption rates to help online shoppers reduce their carbon footprint.
+                1st Prize Winner in IBM's Call for Code Spot Challenge for Energy Sustainability.
             </td>
             <td>
-                <img alt="Vue.js"  src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+                <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+                <img alt="IBM Cloud"  src="images/ibm-cloud-logo.png"/>
+                <img alt="HTML5"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+                <img alt="CSS3"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
             </td>
         </tr>
     </tbody>
