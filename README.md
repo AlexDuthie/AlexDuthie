@@ -142,7 +142,7 @@
     <img alt="Vue.js"  src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
     <img alt="HTML5"  src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white"/>
     <img alt="CSS3"  src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white"/>
-    <img alt="MySQL"  src="	https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
