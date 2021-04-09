@@ -76,7 +76,7 @@
     👏 Past Projects
 </h2>
 
-<table>
+<table align="center">
     <thead>
         <tr>
             <th>Project</th>
