@@ -92,7 +92,7 @@
                 </a>
             </td>
             <td>
-                🥇 1st Prize in IBM's Call for Code Spot Challenge for Energy Sustainability.
+                1st Prize Winner in IBM's Call for Code Spot Challenge for Energy Sustainability. A browser extension that compares online products for their energy consumption rates to help online shoppers reduce their carbon footprint.
             </td>
             <td>
                 <img alt="Vue.js"  src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
