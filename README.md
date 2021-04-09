@@ -48,7 +48,7 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/AlexDuthie/meal-planner-app">Meal Planner 🥕</a>
+                <a href="https://github.com/AlexDuthie/meal-planner-app">Meal Planner</a>
             </td>
             <td>Platform for storing and creating meal plans either manually or automatically.</td>
             <td>
@@ -59,7 +59,7 @@
         <tr>
             <td>
                 <a href="">
-                    Middle Earth Monopoly 💲
+                    Middle Earth Monopoly
                 </a>
             </td>
             <td>
@@ -67,6 +67,17 @@
             </td>
             <td>
                 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                TerraCare
+            </td>
+            <td>
+                A platform to encourage shoppers to be more eco-aware, currently working on a version to submit towards 2021's Call for Code.
+            </td>
+            <td>
+                TBD
             </td>
         </tr>
     </tbody>
@@ -88,7 +99,7 @@
         <tr>
             <td>
                 <a href="https://github.com/AlexDuthie/TerraCare">
-                    TerraCare Browser Extension 🌲
+                    TerraCare Browser Extension
                 </a>
             </td>
             <td>
