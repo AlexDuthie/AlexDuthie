@@ -88,7 +88,7 @@
         <tr>
             <td>
                 <a href="https://github.com/AlexDuthie/TerraCare">
-                    TerraCare 🌳
+                    TerraCare Platform 🌳
                 </a>
             </td>
             <td>
