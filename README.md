@@ -81,7 +81,7 @@
         <tr>
             <th>Project</th>
             <th>Description</th>
-            <th>Tech<th>
+            <th>Tech</th>
         <tr>
     </thead>
     <tbody>
