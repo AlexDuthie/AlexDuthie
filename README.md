@@ -86,7 +86,7 @@
 </table>
 
 <h2 align="left">
-    ✏ Past Projects
+    👏 Past Projects
 </h2>
 
 <table>
