@@ -1,5 +1,30 @@
 # [![Alex Duthie | GitHub Banner](https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/github-banner.png)](https://www.linkedin.com/in/alexduthielnkdn/)
 
+<p align="center">
+    <a href="https://alexduthie.me">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://instagram.com/alexduffdev">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/instagram.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/alexduthielnkdn/">
+        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/linkedin.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/14725277/alex-duthie">
+        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/stack-overflow.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/alexduthie">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/hackerrank.png">
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/AlexDuthie/AlexDuthie/blob/main/cv/Alex-Duthie-Curriculum-Vitae.md">
+        <img
+             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/cv.png">
+    </a>
+</p>
+
 <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexduthie&layout=compact&theme=light&hide_langs_below=1" />
 </p>
@@ -102,34 +127,6 @@
     </tbody>
 </table>
 
-<h2 align="left">
-    🤳 Socials
-</h2>
-
-<p align="center">
-    <a href="https://alexduthie.me">
-        <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/website.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://instagram.com/alexduffdev">
-        <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/instagram.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/alexduthielnkdn/">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/linkedin.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/14725277/alex-duthie">
-        <img src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/stack-overflow.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/alexduthie">
-        <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/hackerrank.png">
-    </a>&nbsp;&nbsp;
-    <a href="https://github.com/AlexDuthie/AlexDuthie/blob/main/cv/Alex-Duthie-Curriculum-Vitae.md">
-        <img
-             src="https://raw.githubusercontent.com/AlexDuthie/AlexDuthie/main/images/social_media_icons/40x40/cv.png">
-    </a>
-</p>
 
 <h2 align="left">
     👩‍💻 Learning Constantly
