@@ -37,7 +37,7 @@
     ✏ Currently Working On
 </h2>
 
-<table>
+<table align="center">
     <thead>
         <tr>
             <th>Project</th>
@@ -48,7 +48,7 @@
     <tbody>
         <tr>
             <td>
-                <a href="https://github.com/AlexDuthie/meal-planner-app">Family Meal Planner 🥕</a>
+                <a href="https://github.com/AlexDuthie/meal-planner-app">Meal Planner 🥕</a>
             </td>
             <td>Platform for storing and creating meal plans either manually or automatically.</td>
             <td>
