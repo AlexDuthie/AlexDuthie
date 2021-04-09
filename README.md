@@ -41,7 +41,8 @@
     <thead align="center">
         <tr>
             <th>Project</th>
-            <th>What is it?</th>
+            <th>Description</th>
+            <th>Tech<th>
         <tr>
     </thead>
     <tbody>
@@ -50,6 +51,10 @@
                 <a href="https://github.com/AlexDuthie/meal-planner-app">Family Meal Planner 🥕</a>
             </td>
             <td>Platform for storing and creating meal plans either manually or automatically.</td>
+            <td>
+                <img alt="HTML5"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+                <img alt="CSS3"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+            </td>
         </tr>
         <tr>
             <td>
@@ -59,6 +64,9 @@
             </td>
             <td>
                 Game of Monopoly with a theme inspired by Tolkien's Middle Earth!
+            </td>
+            <td>
+                <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
             </td>
         </tr>
     </tbody>
@@ -71,12 +79,9 @@
 <table>
     <thead>
         <tr>
-            <th>
-                Project
-            </th>
-            <th>
-                Description
-            </th>
+            <th>Project</th>
+            <th>Description</th>
+            <th>Tech<th>
         <tr>
     </thead>
     <tbody>
@@ -88,6 +93,9 @@
             </td>
             <td>
                 🥇 1st Prize in IBM's Call for Code Spot Challenge for Energy Sustainability.
+            </td>
+            <td>
+                <img alt="Vue.js"  src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
             </td>
         </tr>
     </tbody>
