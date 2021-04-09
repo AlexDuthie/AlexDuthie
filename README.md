@@ -43,11 +43,29 @@
 
 <table>
     <thead align="center">
-        <th>Project</th>
-        <th>What is it?</th>
+        <tr>
+            <th>Project</th>
+            <th>What is it?</th>
+            <th>Tech Stack</th>
+        <tr>
     </thead>
-    <tr>
-        <td></td>
-        <td></td>
-    </tr>
+    <tbody>
+        <tr>
+            <td>
+                <a href="https://github.com/AlexDuthie/meal-planner-app">Family Meal Planner 🥕</a>
+            </td>
+            <td>Platform for storing and creating weekly or monthly meal plans either manually or automatically.</td>
+            <td>
+                <a href="https://vuejs.org/">
+                    <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"></img>
+                </a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+                    <img alt="HTML" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"></img>
+                </a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+                    <img alt="CSS" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"></img>
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
