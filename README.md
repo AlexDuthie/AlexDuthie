@@ -71,7 +71,7 @@
         </tr>
         <tr>
             <td>
-                TerraCare
+                <a href="https://github.com/TerraCare-com">TerraCare</a>
             </td>
             <td>
                 A platform to encourage shoppers to be more eco-aware, currently working on a version to submit towards 2021's Call for Code.
