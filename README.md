@@ -71,13 +71,26 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/TerraCare-com">TerraCare</a>
+                <a href="https://github.com/TerraCare-com">TerraCare Platform</a>
             </td>
             <td>
                 A platform to encourage shoppers to be more eco-aware, currently working on a version to submit towards 2021's Call for Code.
             </td>
             <td>
-                TBD
+                <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+                <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Learning Flutter
+            </td>
+            <td>
+                <a href="https://github.com/AlexDuthie/business-card-app">Business Card App</a>
+            </td>
+            <td>
+                <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+                <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
             </td>
         </tr>
     </tbody>
