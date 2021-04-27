@@ -87,6 +87,8 @@
             </td>
             <td>
                 <a href="https://github.com/AlexDuthie/business-card-app">Business Card App</a>
+                <a href="https://github.com/AlexDuthie/flutter-dice-app">Dice Game</a>
+                <a href="https://github.com/AlexDuthie/magic8ball-app">Magic 8 Ball</a>
             </td>
             <td>
                 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
