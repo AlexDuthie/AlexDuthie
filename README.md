@@ -86,11 +86,11 @@
                 Learning Flutter
             </td>
             <td>
-                <a href="https://github.com/AlexDuthie/business-card-app">Business Card App</a> |
-                <a href="https://github.com/AlexDuthie/flutter-dice-app">Dice Game</a> |
-                <a href="https://github.com/AlexDuthie/magic8ball-app">Magic 8 Ball</a> |
-                <a href="https://github.com/AlexDuthie/xylophone-app">Xylophone App</a> |
-                <a href="https://github.com/AlexDuthie/quiz-app">Quiz App</a> |
+                <a href="https://github.com/AlexDuthie/business-card-app">Business Card App</a>,
+                <a href="https://github.com/AlexDuthie/flutter-dice-app">Dice Game</a>,
+                <a href="https://github.com/AlexDuthie/magic8ball-app">Magic 8 Ball</a>,
+                <a href="https://github.com/AlexDuthie/xylophone-app">Xylophone App</a>,
+                <a href="https://github.com/AlexDuthie/quiz-app">Quiz App</a>,
                 <a href="https://github.com/AlexDuthie/NewsApp">News App</a> w/ <a href="https://newsapi.org/">NewsAPI.org</a>
             </td>
             <td>
